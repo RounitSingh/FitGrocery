@@ -6,7 +6,8 @@
 Hosted Linke: https://651ff0cfad961619852f2c07--candid-medovik-792614.netlify.app/
 
 
-Introduction
+Introduction :
+
 E-commerce grocery landing page has been enhanced with features and improvements to create a more dynamic and appealing entrance for users. This update focuses on highlighting key products, promoting special offers, and providing a seamless navigation experience.
 
 Features
