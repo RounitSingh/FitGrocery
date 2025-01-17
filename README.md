@@ -1,6 +1,6 @@
 # E-Commerce Grocery 
 
-Hosted Linke: https://fit-grocery-q98ofvl6r-rounits-projects.vercel.app/
+Deployed Linke: https://fit-grocery-q98ofvl6r-rounits-projects.vercel.app/
 <Br>
 
 
